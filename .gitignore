@@ -1,0 +1,8 @@
+*.hdf5
+data/*
+data/*
+*.png
+**/.ipynb_checkpoints
+**/__pycache__
+**/.idea
+**/~$*.*
