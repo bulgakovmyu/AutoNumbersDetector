@@ -1,6 +1,7 @@
 *.hdf5
 data/*
 data/*
+checkpoints/*
 *.png
 **/.ipynb_checkpoints
 **/__pycache__
